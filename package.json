@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "envfile": "^2.1.1"
-  }
+  },
+  "name": "12g-cleandotenv",
+  "description": "This package enables you to load .env files and return their values as an object.",
+  "version": "1.0.0",
+  "main": "dotenv.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grrr-amsterdam/12g-cleandotenv.git"
+  },
+  "keywords": [
+    "env",
+    "dotenv",
+    "12factor",
+    "configuration"
+  ],
+  "author": "David Spreekmeester <david@grrr.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grrr-amsterdam/12g-cleandotenv/issues"
+  },
+  "homepage": "https://github.com/grrr-amsterdam/12g-cleandotenv#readme"
 }
