@@ -4,7 +4,7 @@
   },
   "name": "12g-cleandotenv",
   "description": "This package enables you to load .env files and return their values as an object.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dotenv.js",
   "devDependencies": {},
   "scripts": {
