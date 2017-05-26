@@ -1,5 +1,7 @@
 # 12g-cleandotenv
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/grrr-amsterdam/12g-cleandotenv.svg)](https://greenkeeper.io/)
+
 This package enables you to load .env files and return their values as an object.
 
 It cleans out:
