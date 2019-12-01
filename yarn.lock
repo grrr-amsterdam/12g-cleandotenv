@@ -2,35 +2,30 @@
 # yarn lockfile v1
 
 
-ambi@^2.4.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/ambi/-/ambi-2.5.0.tgz#7c8e372be48891157e7cea01cb6f9143d1f74220"
+ambi@^6.3.0:
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/ambi/-/ambi-6.3.0.tgz#9781dfa2acfcbcdfe64ca8cae715b3f2fbad9ed8"
+  integrity sha512-2xmzr3kCqkDd5lMNMejBgvkYB+kFi9WQVWQxEpIJQPqGsL3kgERBhYOsRfp80KSmmw+MLe9E3u7lVONOWEnG9Q==
   dependencies:
-    editions "^1.1.1"
-    typechecker "^4.3.0"
+    typechecker "^5.1.0"
 
-eachr@^3.1.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/eachr/-/eachr-3.2.0.tgz#2c35e43ea086516f7997cf80b7aa64d55a4a4484"
+eachr@^4.3.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/eachr/-/eachr-4.4.0.tgz#9f6de4ad2e7282f300c0605f23c8b5beba119ac5"
+  integrity sha512-QiydM49YD8Mql/wMH8KsDmpjhnkQYBHUDa2J9d0WN6KG1H+uubi7exDaNsI0aPo9MeROODXkTAwf2Ss5+fP9jw==
   dependencies:
-    editions "^1.1.1"
-    typechecker "^4.3.0"
+    typechecker "^5.1.0"
 
-editions@^1.1.1, editions@^1.3.3:
-  version "1.3.3"
-  resolved "https://registry.yarnpkg.com/editions/-/editions-1.3.3.tgz#0907101bdda20fac3cbe334c27cbd0688dc99a5b"
-
-envfile@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/envfile/-/envfile-2.1.1.tgz#8e5ae669c1f2459e5890959d9f8a1b1c05e68f9d"
+envfile@^4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/envfile/-/envfile-4.4.0.tgz#7131bb39c81e24d89701c77eae54ff0c96c6a73b"
+  integrity sha512-ixqu6dX5GrzUru69HCLgOKtL7vI9WXcf/sqIcu3lFIaCfzlaAvyThYW0sIgP3WrPKr+MK90pvLLMqThfDmruJA==
   dependencies:
-    ambi "^2.4.0"
-    eachr "^3.1.0"
-    editions "^1.1.1"
-    typechecker "^4.0.1"
+    ambi "^6.3.0"
+    eachr "^4.3.0"
+    typechecker "^5.1.0"
 
-typechecker@^4.0.1, typechecker@^4.3.0:
-  version "4.4.1"
-  resolved "https://registry.yarnpkg.com/typechecker/-/typechecker-4.4.1.tgz#f97b95f51b038417212d677d45a373ee7bced7e6"
-  dependencies:
-    editions "^1.3.3"
+typechecker@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/typechecker/-/typechecker-5.1.0.tgz#a12cdbb00064ed57492ea63c1ba65008b807038d"
+  integrity sha512-twSCHDQ9a38Sq0KR8bQOuF+jtv/7kz/C7SjfJt4gVYyy1BK5xm/0XUCZIm97LrAGMGKQuTBeGpuwErY6MORrQQ==
