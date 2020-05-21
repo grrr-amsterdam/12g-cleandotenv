@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "envfile": "^2.1.1"
+    "envfile": "^6.2.0"
   },
   "name": "12g-cleandotenv",
   "description": "This package enables you to load .env files and return their values as an object.",
